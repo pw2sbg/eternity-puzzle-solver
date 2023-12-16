@@ -10,10 +10,9 @@ Here is my approach to do so:
 - All pieces are not the same. In fact, some have distinctive characteristics (i.e edges and more particurlarly corners) enabling to identify them (i.e function classify).
 - 0s must be outside the puzzle. Therefore we can check if a corner or an edge piece is correctly placed or not (i.e function is_piece_position_correct)
 - As all the pieces are not the same, we can be smart when swapping them. For example, it would make no sense to swap a corner with an edge or a middle piece. Therefore, we swap only pieces with the same type (i.e function swap_piece).
-  About the simulation of the puzzle:
 - At each iteration, we update the puzzle if the score is greater or equal than the previous reached. The equality matters because it avoids getting stuck in a local minima early.  
 
 
 Additional content:
-[1] - https://en.wikipedia.org/wiki/Eternity_puzzle
-[2] - https://en.wikipedia.org/wiki/NP_(complexity)
+- [1] https://en.wikipedia.org/wiki/Eternity_puzzle
+- [2] https://en.wikipedia.org/wiki/NP_(complexity)
