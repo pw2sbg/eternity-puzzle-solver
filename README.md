@@ -1,4 +1,4 @@
-# EternityPuzzle
+# Eternity Puzzle
 
   The Eternity puzzle is a tiling puzzle created by Christopher Monckton and launched by the Ertl Company in June 1999. It was marketed as being practically unsolvable, with a £1 million prize on offer for whoever could solve it within four years.
   The essence of the problem is to arrange puzzle pieces in a way that they align correctly with each other. The challenge of the problem lies in the fact that the number of possible arrangements can be exponential in relation to the puzzle size.
